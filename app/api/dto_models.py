@@ -1,3 +1,5 @@
+'Data Transfer Object Models'
+
 from pydantic import BaseModel
 
 from api.models import Widget

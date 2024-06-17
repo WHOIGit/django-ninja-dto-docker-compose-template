@@ -1,6 +1,6 @@
 from ninja import NinjaAPI
 
-from api.ninja import WidgetInput, WidgetOutput, WidgetService
+from api.dto_models import WidgetInput, WidgetOutput, WidgetService
 
 
 api = NinjaAPI()
